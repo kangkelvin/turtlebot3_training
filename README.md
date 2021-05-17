@@ -3,7 +3,7 @@
 ```bash
 export TURTLEBOT3_MODEL=waffle
 roslaunch turtlebot3_training turtlebot3_training_gazebo.launch
-roslaunch turtlebot3_training turtlebot3_training_navigation.launch
+roslaunch turtlebot3_training turtlebot3_training_move_base.launch
 ```
 
 TF:
