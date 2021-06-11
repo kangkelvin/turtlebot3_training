@@ -7,7 +7,7 @@ Use these commands to run the program:
 ```bash
 export TURTLEBOT3_MODEL=waffle
 roslaunch turtlebot3_training turtlebot3_training_gazebo.launch
-roslaunch turtlebot3_training turtlebot3_training_move_base.launch
+roslaunch turtlebot3_training turtlebot3_training_teb_planner.launch
 ```
 
 TF:
