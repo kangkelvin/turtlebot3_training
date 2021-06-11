@@ -1,5 +1,8 @@
 # Turtlebot3 with Gazebo with Navigation
 
+Install dependencies:
+`rosdep install --from-paths src --ignore-src --rosdistro=melodic -y`
+
 ```bash
 export TURTLEBOT3_MODEL=waffle
 roslaunch turtlebot3_training turtlebot3_training_gazebo.launch
