@@ -3,6 +3,7 @@
 Install dependencies:
 `rosdep install --from-paths src --ignore-src --rosdistro=melodic -y`
 
+Use these commands to run the program:
 ```bash
 export TURTLEBOT3_MODEL=waffle
 roslaunch turtlebot3_training turtlebot3_training_gazebo.launch
