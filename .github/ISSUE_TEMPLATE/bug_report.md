@@ -23,13 +23,10 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
 **Environment:**
  - OS: Ubuntu20
  - ROS: Foxy
- - Other important files (CUDA, OpenCV, etc) with version number
+ - Other important files/libraries (CUDA, OpenCV, etc) with version number
 
 **Hardware (if applicable):**
  - CPU: Intel i7 10700?
@@ -37,3 +34,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+**Screenshots**
+If applicable, add screenshots/videos to help explain your problem.
