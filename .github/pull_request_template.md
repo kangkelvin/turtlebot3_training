@@ -3,8 +3,8 @@
 See the CONTRIBUTION.md guide to learn more on how to format your code, commit msg, and PR
 
 Please check if your PR fulfills the following requirements:
-- [ ] Name the PR correctly by adding the issue ID. e.g. #101: this is a pr
-- [ ] Commits have been rebased and condensed, and have proper commit message. e.g. #101: this is a commit
+- [ ] Name the PR correctly by adding the issue ID. e.g. `#101: this is a pr`
+- [ ] Commits have been rebased and condensed, and have proper commit message. e.g. `#101: this is a commit`
 - [ ] Tests for the changes have been added (for bug fixes / features)
 - [ ] Docs have been reviewed and added / updated if needed (for bug fixes / features)
 - [ ] Code have been autoformatted
