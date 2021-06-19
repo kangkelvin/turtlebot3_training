@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: generic bug report
-title: "[BUG]"
+title: "[BUG][module_name]"
 labels: bug
 assignees: ''
 
