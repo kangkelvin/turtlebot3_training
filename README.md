@@ -1,5 +1,5 @@
 # Turtlebot3 with Gazebo with Navigation
-fdsaf
+
 Install dependencies:
 `rosdep install --from-paths src --ignore-src --rosdistro=melodic -y`
 
