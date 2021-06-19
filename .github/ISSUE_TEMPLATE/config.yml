@@ -1,1 +1,2 @@
 blank_issues_enabled: false
+COMMIT_MESSAGE_REGEX: /(#)((?:[a-z][a-z]+))(\d{3})(:)([a-z0-9])/i
