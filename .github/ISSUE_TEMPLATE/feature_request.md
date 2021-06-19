@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "[ENH]"
+title: "[ENH][module_name]"
 labels: enhancement
 assignees: ''
 
