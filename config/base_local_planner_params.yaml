@@ -23,6 +23,8 @@ TebLocalPlannerROS:
  global_plan_overwrite_orientation: True
  max_global_plan_lookahead_dist: 3.0
  feasibility_check_no_poses: 5
+
+ min_samples: 6
     
  # Robot
          
@@ -44,8 +46,8 @@ TebLocalPlannerROS:
    vertices: [[0.15, 0.15], [-0.15, 0.15], [-0.15, -0.15], [0.15, -0.15]]
  # GoalTolerance
     
- xy_goal_tolerance: 0.2
- yaw_goal_tolerance: 0.1
+ xy_goal_tolerance: 0.1
+ yaw_goal_tolerance: 0.05
  free_goal_vel: False
     
  # Obstacles
